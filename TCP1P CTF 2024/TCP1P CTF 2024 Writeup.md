@@ -6,7 +6,9 @@
 We were given 5 images of unidentified nightclub(s) and a text file with a link to a Facebook account. The link was https://www.facebook.com/stacy.putri?mibextid=LQQJ4d . I go through the account and most of the pictures are about the nightclub. I can't find any clue.
 
 Each images have watermark of "indonesiaclubbing.com". Went to the link and can't find any clue as well. At the end I took this image below
-![[5.jpg]]
+
+![5](https://github.com/user-attachments/assets/d838b4c8-266c-47e0-a995-1efa52fb2333)
+
 and search using Yandex Image Search. I found this article about closure of a nightclub. It mentioned the name of politician that asked for the closure so I search him up on Wikipedia and finally got the flag
 
 ```
