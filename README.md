@@ -21,4 +21,4 @@ Feel free to contribute by submitting pull requests with additional writeups or 
 
 ## 📜 License
 
-This repository is open-source under the [MIT License](LICENSE).
+This repository is open-source under the [MIT License](https://github.com/kreee00/ctf-writeups/blob/main/LICENSE).
