@@ -4,7 +4,7 @@ Welcome to the **CTF Writeups** repository! This repo contains detailed writeups
 
 ## 🏆 Teams
 
-I usually compete for my university team **CYBERHAX** 🦾 or under the **RE:UN10N** 🛡️ flag.
+I usually compete for my university team [**CYBERHAX**](https://www.cyberhax.club) 🦾 or under the [**RE:UN10N**](https://x.com/reun10n_) 🛡️ flag.
 
 ## Contents
 
